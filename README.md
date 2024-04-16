@@ -4,6 +4,7 @@
 [] It takes a sorted list, list_s, and two values, lo and hi, and returns a list of all the values in list_s which are greater than or equal to lo and less than or equal to hi. The list of returned values does not need to be sorted.
 
 [] Special conditions to keep in mind:
+
   --> If list_s is None then return None.
   --> If lo is greater than hi then return None.
   --> If lo is None then all values are greater than lo and select the return value(s) accordingly.
