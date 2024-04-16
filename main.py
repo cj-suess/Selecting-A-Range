@@ -147,3 +147,4 @@ def extract(list, lo, hi):
         extracted_range = calculate_lo_to_hi(list, lo, hi)
 
     return extracted_range
+#test
